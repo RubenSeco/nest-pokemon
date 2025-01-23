@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+}
